@@ -8,7 +8,7 @@ This repository covers the following:
 
 - [Introduction](#introduction)
 - [NAS Algorithm](#nas-algorithm)
-  - [paper subcategory 1](#paper-subcategory-1)
+  - [One-shot NAS](#One-shot-NAS)
 - [Statistical Analysis of Datasets](#statistical-analysis-of-datasets)
   - [paper subcategory 1](#paper-subcategory-1)
 
@@ -27,7 +27,7 @@ Please describe this category with easy words.
 
 
 
-### paper-subcategory-1
+### One-shot NAS
 
 Please describe this subcategory with easy words.
 
