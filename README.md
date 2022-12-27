@@ -5,12 +5,6 @@
 ## Overview
 
 This repository covers the following:
-1. NAS Algorithm
-2. Statistical Analysis of Datasets
-
----
-
-## Overview
 
 - [Introduction](#introduction)
 - [Nas Algorithm](#nas-algorithm)
