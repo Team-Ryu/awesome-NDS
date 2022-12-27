@@ -1,6 +1,5 @@
 # Awesome-NDS
-
-# Awesome Paper Template
+![NDS](https://user-images.githubusercontent.com/90232305/209629502-37e63cf7-5a45-42db-93ea-55b11f8cb9fc.jpg)
 
 This is an awesome computer vision paper template. Use this template for your own purpose.
 
