@@ -1,4 +1,4 @@
-# awesome-NDS
+# Awesome-NDS
 
 # Awesome Paper Template
 
