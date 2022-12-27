@@ -29,11 +29,10 @@ Please describe this category with easy words.
 
 ### One-shot NAS
 
-One-shot NAS는 DNAS[D]와 Single-path NAS[S]로 구분된다. 
 
 
 
-- **[D]SGNAS**: "Searching by Generating: Flexible and Efficient One-Shot NAS with
+- **SGNAS**: "Searching by Generating: Flexible and Efficient One-Shot NAS with
 Architecture Generator", CVPR, 2021 [[paper](https://arxiv.org/abs/2103.07289)] [[code](https://github.com/eric8607242/SGNAS)] [[summary](summary/example.md)]
 
 - **ResNet**: "Deep Residual Learning for Image Recognition", CVPR, 2016 [[paper](https://arxiv.org/abs/1512.03385)] [[code](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)] [[summary](summary/example.md)]
