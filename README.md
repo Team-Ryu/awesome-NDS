@@ -3,6 +3,13 @@
 
 Recently, as huge artificial neural networks have begun to gain popularity, the amount of data required for learning is also rapidly increasing. This repository is for the dataset search algorithm called Neural Dataset Search (NDS) to reduce the astronomical cost of processing, storing, and distributing large datasets and to evaluate and verify supermassive artificial neural networks with only a small dataset. 
 
+--
+
+## Overview
+
+This repository covers the following:
+1. NAS Algorithm
+2. Statistical Analysis of Datasets
 
 ---
 
