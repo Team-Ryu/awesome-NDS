@@ -18,7 +18,7 @@ This repository covers the following:
 
 ![NDS](https://user-images.githubusercontent.com/90232305/209629502-37e63cf7-5a45-42db-93ea-55b11f8cb9fc.jpg)
 
-Recently, as huge artificial neural networks have begun to gain popularity, the amount of data required for learning is also rapidly increasing. This repository is for the dataset search algorithm called Neural Dataset Search (NDS) to reduce the astronomical cost of processing, storing, and distributing large datasets and to evaluate and verify supermassive artificial neural networks with only a small dataset. 
+Recently, as huge artificial neural networks have begun to gain popularity, the amount of data required for learning is also rapidly increasing. This repository is for the dataset search algorithm called **Neural Dataset Search** (**NDS**) to reduce the astronomical cost of processing, storing, and distributing large datasets and to evaluate and verify supermassive artificial neural networks with only a small dataset. 
 
 
 ## NAS Algorithm
