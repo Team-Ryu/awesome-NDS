@@ -45,7 +45,7 @@ Please describe this subcategory with easy words.
 
   
 
-## statistical-analysis-of-dataset
+## statistical-analysis-of-datasets
 
 Please describe this subcategory with easy words.
 
