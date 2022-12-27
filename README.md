@@ -13,27 +13,27 @@ This repository covers the following:
 ## Overview
 
 - [introduction](#introduction)
-- [NAS Algorithm](#NAS Algorithm)
+- [nas algorithm](#nas algorithm)
   - [paper subcategory 1](#paper-subcategory-1)
-- [Statistical Analysis of Datasets](#Statistical Analysis of Datasets)
+- [statistical analysis of datasets](#statistical analysis of datasets)
   - [paper subcategory 1](#paper-subcategory-1)
 
 
 
-## Introduction
+## introduction
 
 ![NDS](https://user-images.githubusercontent.com/90232305/209629502-37e63cf7-5a45-42db-93ea-55b11f8cb9fc.jpg)
 
 Recently, as huge artificial neural networks have begun to gain popularity, the amount of data required for learning is also rapidly increasing. This repository is for the dataset search algorithm called Neural Dataset Search (NDS) to reduce the astronomical cost of processing, storing, and distributing large datasets and to evaluate and verify supermassive artificial neural networks with only a small dataset. 
 
 
-## NAS Algorithm
+## nas algorithm
 
 Please describe this category with easy words.
 
 
 
-### Statistical Analysis of Datasets
+### paper-subcategory-1
 
 Please describe this subcategory with easy words.
 
@@ -45,7 +45,7 @@ Please describe this subcategory with easy words.
 
   
 
-## Paper Category 2
+## statistical analysis of datasets
 
 Please describe this subcategory with easy words.
 
