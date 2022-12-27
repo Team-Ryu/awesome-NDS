@@ -13,9 +13,9 @@ This repository covers the following:
 ## Overview
 
 - [introduction](#introduction)
-- [paper category 1](#paper-category-1)
+- [NAS Algorithm](#NAS Algorithm)
   - [paper subcategory 1](#paper-subcategory-1)
-- [paper category 2](#paper-category-2)
+- [Statistical Analysis of Datasets](#Statistical Analysis of Datasets)
   - [paper subcategory 1](#paper-subcategory-1)
 
 
@@ -27,13 +27,13 @@ This repository covers the following:
 Recently, as huge artificial neural networks have begun to gain popularity, the amount of data required for learning is also rapidly increasing. This repository is for the dataset search algorithm called Neural Dataset Search (NDS) to reduce the astronomical cost of processing, storing, and distributing large datasets and to evaluate and verify supermassive artificial neural networks with only a small dataset. 
 
 
-## Paper Category 1
+## NAS Algorithm
 
 Please describe this category with easy words.
 
 
 
-### Paper subcategory 1
+### Statistical Analysis of Datasets
 
 Please describe this subcategory with easy words.
 
