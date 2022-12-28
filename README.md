@@ -23,7 +23,7 @@ Recently, as huge artificial neural networks have begun to gain popularity, the 
 
 ## NAS Algorithm
 
-Please describe this category with easy words.
+NAS에도 DNAS, single-path NAS, One-shot NAS 등 다양한 기법이 존재하며, 그 중에서 가장 computational efficiency한 one-shot NAS를 기반으로 NDS를 설계하는 것이 적절할 것이라고 판단되었습니다. 
 
 
 
