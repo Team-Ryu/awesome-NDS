@@ -31,7 +31,7 @@ Please describe this category with easy words.
 
 
 
-
+- **Understanding and Simplifying One-Shot Architecture Search**: "Understanding and Simplifying One-Shot Architecture Search", ICML, 2018 [[paper](https://proceedings.mlr.press/v80/bender18a/bender18a.pdf)]
 - **SGNAS**: "Searching by Generating: Flexible and Efficient One-Shot NAS with
 Architecture Generator", CVPR, 2021 [[paper](https://arxiv.org/abs/2103.07289)] [[code](https://github.com/eric8607242/SGNAS)] [[summary](summary/example.md)]
 
