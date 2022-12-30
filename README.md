@@ -37,7 +37,12 @@ Architecture Generator", CVPR, 2021 [[paper](https://arxiv.org/abs/2103.07289)] 
 
 - **ResNet**: "Deep Residual Learning for Image Recognition", CVPR, 2016 [[paper](https://arxiv.org/abs/1512.03385)] [[code](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)] [[summary](summary/example.md)]
 
-  
+
+### Performance Estimation Strategy
+
+내용 : 훈련 초기에 서로 다른 network가 보이는 상대적인 성능이 종종 최적 성능에 대해서 의미있는 표시를 제공할 수 있음. (SMASH 에서 이를 활용)
+- **Hyperband**: "Hyperband: Bandit-based configuration evaluation for hyperparameter optimization"
+
 
 ## Statistical Analysis of Datasets
 
@@ -48,7 +53,6 @@ Please describe this subcategory with easy words.
 ### Paper subcategory 1
 
 Please describe this subcategory with easy words.
-
 
 
 - **PaperNickName**: "paper title", publication, year [[paper](https://arxiv.org/abs/1512.03385)] [[code](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)] [[summary](summary/example.md)]
